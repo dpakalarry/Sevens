@@ -1,0 +1,5 @@
+﻿  MyForm.cpp
+MyForm.cpp(77): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+MyForm.cpp(164): warning C4101: 'move': unreferenced local variable
+c:\users\ieuser\documents\visual studio 2017\projects\finalproj\finalproj\myform.cpp(114): warning C4715: 'checkWin': not all control paths return a value
+  FinalProj.vcxproj -> C:\Users\IEUser\documents\visual studio 2017\Projects\FinalProj\Debug\FinalProj.exe
